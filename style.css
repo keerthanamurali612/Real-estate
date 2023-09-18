@@ -1,0 +1,21 @@
+.container{
+    font-size: 18px;
+    font-family: sans-serif;   
+}
+.nav-pills .nav-item{
+    color: red;
+}
+.nav-pills .nav-item .nav-link:hover{
+    color: red;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.row h5{
+    color: red;
+    font-size: 30px;
+}
